@@ -1,2 +1,2 @@
-# ide-git3
+# ide-git2
 ide-git
